@@ -1,0 +1,16 @@
+C:\Users\dai\Desktop\vsTerceraParte\prubeaDll2\prubeaDll2\bin\Debug\prubeaDll2.exe.config
+C:\Users\dai\Desktop\vsTerceraParte\prubeaDll2\prubeaDll2\bin\Debug\prubeaDll2.exe
+C:\Users\dai\Desktop\vsTerceraParte\prubeaDll2\prubeaDll2\bin\Debug\prubeaDll2.pdb
+C:\Users\dai\Desktop\vsTerceraParte\prubeaDll2\prubeaDll2\obj\Debug\prubeaDll2.csprojAssemblyReference.cache
+C:\Users\dai\Desktop\vsTerceraParte\prubeaDll2\prubeaDll2\obj\Debug\prubeaDll2.csproj.ResolveComReference.cache
+C:\Users\dai\Desktop\vsTerceraParte\prubeaDll2\prubeaDll2\obj\Debug\MainWindow.g.cs
+C:\Users\dai\Desktop\vsTerceraParte\prubeaDll2\prubeaDll2\obj\Debug\App.g.cs
+C:\Users\dai\Desktop\vsTerceraParte\prubeaDll2\prubeaDll2\obj\Debug\prubeaDll2_MarkupCompile.cache
+C:\Users\dai\Desktop\vsTerceraParte\prubeaDll2\prubeaDll2\obj\Debug\prubeaDll2_MarkupCompile.lref
+C:\Users\dai\Desktop\vsTerceraParte\prubeaDll2\prubeaDll2\obj\Debug\MainWindow.baml
+C:\Users\dai\Desktop\vsTerceraParte\prubeaDll2\prubeaDll2\obj\Debug\prubeaDll2.g.resources
+C:\Users\dai\Desktop\vsTerceraParte\prubeaDll2\prubeaDll2\obj\Debug\prubeaDll2.Properties.Resources.resources
+C:\Users\dai\Desktop\vsTerceraParte\prubeaDll2\prubeaDll2\obj\Debug\prubeaDll2.csproj.GenerateResource.cache
+C:\Users\dai\Desktop\vsTerceraParte\prubeaDll2\prubeaDll2\obj\Debug\prubeaDll2.csproj.CoreCompileInputs.cache
+C:\Users\dai\Desktop\vsTerceraParte\prubeaDll2\prubeaDll2\obj\Debug\prubeaDll2.exe
+C:\Users\dai\Desktop\vsTerceraParte\prubeaDll2\prubeaDll2\obj\Debug\prubeaDll2.pdb
